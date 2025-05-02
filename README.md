@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;API+Specialist;Problem+Solver" alt="Backend Developer, Problem Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver" alt="Backend Developer, Problem Solver" />
 </div>
 
 ---
@@ -21,10 +21,6 @@
   - Git | GitHub Actions | Postman  
   - TDD | Agile Development | Code Reviews  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gideon-1997&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-1997&layout=compact&langs_count=8&theme=algolia"/>
-</div>
 
 ---
 
