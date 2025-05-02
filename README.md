@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;API+Specialist;Problem+Solver" alt="Backend Developer, Microservices Architect, API Specialist, Problem Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;API+Specialist;Problem+Solver" alt="Backend Developer,Problem Solver" />
 </div>
 
 ---
